@@ -1,0 +1,16 @@
+"In God we trust... Everyone else bring data."
+
+When your data set extends beyond the capacity of your systems to store and
+ manipulate, it's big data.
+    It's a relative term. If you have a laptop and you recieve more data than your
+    laptop can handle, that's big data for you. The term's meaning changes
+    depending on the system.
+
+
+Five Vs of Big Data:
+    Velocity
+    Volume
+    Variety
+    Veracity
+    Value
+
